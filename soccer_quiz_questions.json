@@ -1,0 +1,576 @@
+{
+  "version": 1,
+  "title": "Soccer Quiz Starter Pack",
+  "questions": [
+    {
+      "id": 1,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which footballer is known as the Argentine superstar who won the 2022 FIFA World Cup?",
+      "clues": [
+        "He has played for Barcelona and Inter Miami.",
+        "He won the 2022 FIFA World Cup with Argentina."
+      ],
+      "options": [
+        "Lionel Messi",
+        "Ángel Di María",
+        "Sergio Agüero",
+        "Lautaro Martínez"
+      ],
+      "answer": "Lionel Messi",
+      "explanation": "Lionel Messi captained Argentina to the 2022 FIFA World Cup title."
+    },
+    {
+      "id": 2,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Portuguese forward is famous for the 'Siuuu' celebration?",
+      "clues": [
+        "He has played for Manchester United, Real Madrid and Juventus.",
+        "His initials are CR7."
+      ],
+      "options": [
+        "Cristiano Ronaldo",
+        "Bruno Fernandes",
+        "João Félix",
+        "Bernardo Silva"
+      ],
+      "answer": "Cristiano Ronaldo",
+      "explanation": "Cristiano Ronaldo is widely known for his 'Siuuu' celebration."
+    },
+    {
+      "id": 3,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which French forward starred for Paris Saint-Germain and joined Real Madrid in 2024?",
+      "clues": [
+        "He won the 2018 World Cup with France.",
+        "His first name is Kylian."
+      ],
+      "options": [
+        "Kylian Mbappé",
+        "Antoine Griezmann",
+        "Ousmane Dembélé",
+        "Olivier Giroud"
+      ],
+      "answer": "Kylian Mbappé",
+      "explanation": "Kylian Mbappé joined Real Madrid in 2024."
+    },
+    {
+      "id": 4,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Brazilian forward is famous for his skills and played for Barcelona and Paris Saint-Germain?",
+      "clues": [
+        "He was part of Brazil's 2013 Confederations Cup-winning team.",
+        "His first name is Neymar."
+      ],
+      "options": [
+        "Neymar",
+        "Vinícius Júnior",
+        "Rodrygo",
+        "Raphinha"
+      ],
+      "answer": "Neymar",
+      "explanation": "Neymar played for Barcelona and Paris Saint-Germain during his career."
+    },
+    {
+      "id": 5,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Croatian midfielder won the Ballon d'Or in 2018?",
+      "clues": [
+        "He spent many years playing for Real Madrid.",
+        "His surname is Modrić."
+      ],
+      "options": [
+        "Luka Modrić",
+        "Ivan Rakitić",
+        "Mateo Kovačić",
+        "Marcelo Brozović"
+      ],
+      "answer": "Luka Modrić",
+      "explanation": "Luka Modrić won the 2018 Ballon d'Or."
+    },
+    {
+      "id": 6,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Egyptian forward is nicknamed the 'Egyptian King' by many fans?",
+      "clues": [
+        "He has been a star for Liverpool.",
+        "His first name is Mohamed."
+      ],
+      "options": [
+        "Mohamed Salah",
+        "Sadio Mané",
+        "Riyad Mahrez",
+        "Achraf Hakimi"
+      ],
+      "answer": "Mohamed Salah",
+      "explanation": "Mohamed Salah is a prolific Egyptian forward who has starred for Liverpool."
+    },
+    {
+      "id": 7,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Norwegian striker joined Manchester City in 2022?",
+      "clues": [
+        "He is known for his powerful finishing.",
+        "His surname is Haaland."
+      ],
+      "options": [
+        "Erling Haaland",
+        "Alexander Sørloth",
+        "Martin Ødegaard",
+        "Joshua King"
+      ],
+      "answer": "Erling Haaland",
+      "explanation": "Erling Haaland joined Manchester City in 2022."
+    },
+    {
+      "id": 8,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which English midfielder became famous at Borussia Dortmund before joining Real Madrid in 2023?",
+      "clues": [
+        "He wears the number 5 for Real Madrid.",
+        "His surname is Bellingham."
+      ],
+      "options": [
+        "Jude Bellingham",
+        "Phil Foden",
+        "Declan Rice",
+        "Cole Palmer"
+      ],
+      "answer": "Jude Bellingham",
+      "explanation": "Jude Bellingham joined Real Madrid from Borussia Dortmund in 2023."
+    },
+    {
+      "id": 9,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which French midfielder was born in Angola and joined Real Madrid in 2021?",
+      "clues": [
+        "He was born in Cabinda, Angola.",
+        "His surname is Camavinga."
+      ],
+      "options": [
+        "Eduardo Camavinga",
+        "Paul Pogba",
+        "N'Golo Kanté",
+        "Aurélien Tchouaméni"
+      ],
+      "answer": "Eduardo Camavinga",
+      "explanation": "Eduardo Camavinga was born in Angola and joined Real Madrid in 2021."
+    },
+    {
+      "id": 10,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "players",
+      "question": "Which Spanish midfielder scored the winning goal in the 2010 FIFA World Cup final?",
+      "clues": [
+        "He played for Barcelona.",
+        "His surname is Iniesta."
+      ],
+      "options": [
+        "Andrés Iniesta",
+        "Xavi Hernández",
+        "Sergio Busquets",
+        "Cesc Fàbregas"
+      ],
+      "answer": "Andrés Iniesta",
+      "explanation": "Andrés Iniesta scored Spain's winning goal against the Netherlands in the 2010 final."
+    },
+    {
+      "id": 11,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Italian goalkeeper captained Italy to victory at UEFA Euro 2020?",
+      "clues": [
+        "He played for Paris Saint-Germain after leaving AC Milan.",
+        "His surname is Donnarumma."
+      ],
+      "options": [
+        "Gianluigi Donnarumma",
+        "Gianluigi Buffon",
+        "Samir Handanović",
+        "Marco Carnesecchi"
+      ],
+      "answer": "Gianluigi Donnarumma",
+      "explanation": "Donnarumma was named Player of the Tournament at UEFA Euro 2020."
+    },
+    {
+      "id": 12,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Belgian midfielder was a key playmaker for Manchester City for many seasons?",
+      "clues": [
+        "He previously played for Wolfsburg.",
+        "His surname is De Bruyne."
+      ],
+      "options": [
+        "Kevin De Bruyne",
+        "Youri Tielemans",
+        "Eden Hazard",
+        "Leandro Trossard"
+      ],
+      "answer": "Kevin De Bruyne",
+      "explanation": "Kevin De Bruyne became one of Manchester City's leading creative midfielders."
+    },
+    {
+      "id": 13,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Spanish goalkeeper captained Spain during much of its successful 2008–2012 era?",
+      "clues": [
+        "He played for Real Madrid.",
+        "His surname is Casillas."
+      ],
+      "options": [
+        "Iker Casillas",
+        "Sergio Ramos",
+        "Carles Puyol",
+        "Gerard Piqué"
+      ],
+      "answer": "Iker Casillas",
+      "explanation": "Iker Casillas captained Spain to the 2010 World Cup and Euro 2012 titles."
+    },
+    {
+      "id": 14,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Polish striker won the FIFA Best Men's Player award in 2020 and 2021?",
+      "clues": [
+        "He starred for Bayern Munich before joining Barcelona.",
+        "His surname is Lewandowski."
+      ],
+      "options": [
+        "Robert Lewandowski",
+        "Arkadiusz Milik",
+        "Piotr Zieliński",
+        "Krzysztof Piątek"
+      ],
+      "answer": "Robert Lewandowski",
+      "explanation": "Robert Lewandowski won The Best FIFA Men's Player award in 2020 and 2021."
+    },
+    {
+      "id": 15,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Senegalese forward won the Africa Cup of Nations with Senegal in 2022?",
+      "clues": [
+        "He played for Liverpool and Bayern Munich.",
+        "His surname is Mané."
+      ],
+      "options": [
+        "Sadio Mané",
+        "Nicolas Jackson",
+        "Kalidou Koulibaly",
+        "Ismaïla Sarr"
+      ],
+      "answer": "Sadio Mané",
+      "explanation": "Sadio Mané helped Senegal win the Africa Cup of Nations in 2022."
+    },
+    {
+      "id": 16,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Spanish midfielder scored the winning goal in the UEFA Euro 2024 final?",
+      "clues": [
+        "He played for Manchester City.",
+        "His surname is Oyarzabal."
+      ],
+      "options": [
+        "Mikel Oyarzabal",
+        "Lamine Yamal",
+        "Dani Olmo",
+        "Rodri"
+      ],
+      "answer": "Mikel Oyarzabal",
+      "explanation": "Mikel Oyarzabal scored Spain's winning goal against England in the Euro 2024 final."
+    },
+    {
+      "id": 17,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which goalkeeper won the Golden Glove at the 2022 FIFA World Cup?",
+      "clues": [
+        "He represented Argentina.",
+        "His surname is Martínez."
+      ],
+      "options": [
+        "Emiliano Martínez",
+        "Franco Armani",
+        "Gerónimo Rulli",
+        "Walter Benítez"
+      ],
+      "answer": "Emiliano Martínez",
+      "explanation": "Emiliano Martínez won the Golden Glove award at the 2022 World Cup."
+    },
+    {
+      "id": 18,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "players",
+      "question": "Which Italian defender captained Italy to the 2006 World Cup and won the Ballon d'Or that year?",
+      "clues": [
+        "He was a centre-back for Juventus.",
+        "His surname is Cannavaro."
+      ],
+      "options": [
+        "Fabio Cannavaro",
+        "Giorgio Chiellini",
+        "Leonardo Bonucci",
+        "Alessandro Nesta"
+      ],
+      "answer": "Fabio Cannavaro",
+      "explanation": "Fabio Cannavaro captained Italy to the 2006 World Cup and won the Ballon d'Or that year."
+    },
+    {
+      "id": 19,
+      "type": "clues",
+      "difficulty": "hard",
+      "category": "players",
+      "question": "Which player scored the fastest goal in FIFA World Cup history, after about 11 seconds in 2002?",
+      "clues": [
+        "He represented Turkey.",
+        "He scored against South Korea."
+      ],
+      "options": [
+        "Hakan Şükür",
+        "Nihat Kahveci",
+        "Hasan Şaş",
+        "Rüştü Reçber"
+      ],
+      "answer": "Hakan Şükür",
+      "explanation": "Hakan Şükür scored after approximately 11 seconds in the 2002 third-place match."
+    },
+    {
+      "id": 20,
+      "type": "clues",
+      "difficulty": "hard",
+      "category": "players",
+      "question": "Who scored the winning goal for Greece in the UEFA Euro 2004 final?",
+      "clues": [
+        "He scored a header against Portugal.",
+        "His surname is Charisteas."
+      ],
+      "options": [
+        "Angelos Charisteas",
+        "Theodoros Zagorakis",
+        "Giorgos Karagounis",
+        "Zisis Vryzas"
+      ],
+      "answer": "Angelos Charisteas",
+      "explanation": "Angelos Charisteas scored the only goal in the Euro 2004 final."
+    },
+    {
+      "id": 21,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "clubs",
+      "question": "Which club is known as the 'Red Devils' and plays at Old Trafford?",
+      "clues": [
+        "The club is based in Manchester, England.",
+        "Its name begins with Manchester."
+      ],
+      "options": [
+        "Manchester United",
+        "Liverpool",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "answer": "Manchester United",
+      "explanation": "Manchester United play their home matches at Old Trafford."
+    },
+    {
+      "id": 22,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "clubs",
+      "question": "Which Spanish club plays its home matches at the Santiago Bernabéu?",
+      "clues": [
+        "The club has won many European Cup titles.",
+        "Its name begins with Real."
+      ],
+      "options": [
+        "Real Madrid",
+        "Atlético Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "answer": "Real Madrid",
+      "explanation": "The Santiago Bernabéu is Real Madrid's home stadium."
+    },
+    {
+      "id": 23,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "clubs",
+      "question": "Which English club is nicknamed 'The Reds' and plays at Anfield?",
+      "clues": [
+        "The club is based in Liverpool.",
+        "Its supporters sing 'You'll Never Walk Alone'."
+      ],
+      "options": [
+        "Liverpool",
+        "Arsenal",
+        "Nottingham Forest",
+        "Manchester City"
+      ],
+      "answer": "Liverpool",
+      "explanation": "Liverpool play at Anfield and are associated with 'You'll Never Walk Alone'."
+    },
+    {
+      "id": 24,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "clubs",
+      "question": "Which Italian club is associated with black-and-blue stripes and the nickname Nerazzurri?",
+      "clues": [
+        "The club is based in Milan.",
+        "Its name includes 'Internazionale'."
+      ],
+      "options": [
+        "Inter Milan",
+        "AC Milan",
+        "Juventus",
+        "Atalanta"
+      ],
+      "answer": "Inter Milan",
+      "explanation": "Inter are known as the Nerazzurri, meaning the black and blues."
+    },
+    {
+      "id": 25,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "clubs",
+      "question": "Which German club plays at Signal Iduna Park and is famous for the Yellow Wall?",
+      "clues": [
+        "The club is based in Dortmund.",
+        "Its initials are BVB."
+      ],
+      "options": [
+        "Borussia Dortmund",
+        "Bayern Munich",
+        "RB Leipzig",
+        "Bayer Leverkusen"
+      ],
+      "answer": "Borussia Dortmund",
+      "explanation": "Borussia Dortmund's south stand is famously known as the Yellow Wall."
+    },
+    {
+      "id": 26,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "international",
+      "question": "Which country won the 2022 FIFA Men's World Cup?",
+      "clues": [
+        "The final was played against France.",
+        "Lionel Messi captained the team."
+      ],
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Croatia",
+        "Morocco"
+      ],
+      "answer": "Argentina",
+      "explanation": "Argentina defeated France on penalties after a 3–3 draw in the 2022 final."
+    },
+    {
+      "id": 27,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "international",
+      "question": "Which country won the UEFA Euro 2024 men's tournament?",
+      "clues": [
+        "They defeated England in the final.",
+        "They became European champions for a record fourth time."
+      ],
+      "options": [
+        "Spain",
+        "England",
+        "France",
+        "Germany"
+      ],
+      "answer": "Spain",
+      "explanation": "Spain defeated England 2–1 in the Euro 2024 final."
+    },
+    {
+      "id": 28,
+      "type": "clues",
+      "difficulty": "medium",
+      "category": "international",
+      "question": "Which African country reached the semi-finals of the 2022 FIFA Men's World Cup?",
+      "clues": [
+        "They defeated Portugal in the quarter-final.",
+        "Their team is nicknamed the Atlas Lions."
+      ],
+      "options": [
+        "Morocco",
+        "Senegal",
+        "Egypt",
+        "Ghana"
+      ],
+      "answer": "Morocco",
+      "explanation": "Morocco became the first African men's team to reach a World Cup semi-final."
+    },
+    {
+      "id": 29,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "rules",
+      "question": "How many players from one team are normally on the pitch at the start of a standard football match?",
+      "clues": [
+        "The goalkeeper counts as one.",
+        "A full side has ten outfield players plus its goalkeeper."
+      ],
+      "options": [
+        "11",
+        "10",
+        "12",
+        "9"
+      ],
+      "answer": "11",
+      "explanation": "Each team starts with 11 players, including the goalkeeper."
+    },
+    {
+      "id": 30,
+      "type": "clues",
+      "difficulty": "easy",
+      "category": "rules",
+      "question": "What card does a referee normally show to send a player off?",
+      "clues": [
+        "It is the more severe of the two standard disciplinary cards.",
+        "It is the colour associated with a dismissal."
+      ],
+      "options": [
+        "Red card",
+        "Yellow card",
+        "Blue card",
+        "Green card"
+      ],
+      "answer": "Red card",
+      "explanation": "A red card means the player is sent off."
+    }
+  ]
+}
